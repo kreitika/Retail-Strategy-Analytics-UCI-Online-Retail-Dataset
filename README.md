@@ -7,7 +7,7 @@ The analysis was performed in **Python (Google Colab)** and visualized with **Ta
 
 ## 📊 Dashboard
 
-👉 [**View the Interactive Tableau Dashboard**]((https://public.tableau.com/authoring/RetailStrategyAnalyticsUCIOnlineRetailDataset/RetailStrategyAnalyticsUCIOnlineRetailDataset#2))  
+👉 [**View the Interactive Tableau Dashboard**](https://public.tableau.com/authoring/RetailStrategyAnalyticsUCIOnlineRetailDataset/RetailStrategyAnalyticsUCIOnlineRetailDataset#2) 
 
 
 ---
